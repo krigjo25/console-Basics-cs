@@ -8,4 +8,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Update="LICENCE">
+        <DependentUpon>README.md</DependentUpon>
+      </None>
+    </ItemGroup>
+
 </Project>
