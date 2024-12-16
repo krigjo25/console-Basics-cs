@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-Basics-cs", "console-Basics-cs\console-Basics-cs.csproj", "{A4F370F9-0E91-4362-BD22-E921F7388DAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-Basics-cs.Tests", "console-Basics-cs.Tests\console-Basics-cs.Tests.csproj", "{249188AC-B57B-4C88-9299-E634B1FF52F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A4F370F9-0E91-4362-BD22-E921F7388DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4F370F9-0E91-4362-BD22-E921F7388DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4F370F9-0E91-4362-BD22-E921F7388DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249188AC-B57B-4C88-9299-E634B1FF52F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249188AC-B57B-4C88-9299-E634B1FF52F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249188AC-B57B-4C88-9299-E634B1FF52F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249188AC-B57B-4C88-9299-E634B1FF52F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

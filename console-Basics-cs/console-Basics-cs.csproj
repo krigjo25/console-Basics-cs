@@ -6,6 +6,11 @@
         <RootNamespace>console_Basics_cs</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>console-Basics-cs</Title>
+        <Authors>krigjo25</Authors>
+        <Description>A basic Introduction to C# </Description>
+        <Copyright>The Unlicensed</Copyright>
     </PropertyGroup>
 
     <ItemGroup>
